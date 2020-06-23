@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tengebel-v2.4' //nama cache
+const CACHE_NAME = 'tengebel-v2.5' //nama cache
 var urlsToCache = [
     '/',
     '/manifest.json',
